@@ -6,7 +6,7 @@ This Game is a xmal form using / CSharp / Xaml / Visual Studio this is an open-s
 - to find the code for the game simple click the main branch and you will see in the drop down menu game_patch_1 you can see on the picture below <br>
 ![Screensho1](https://github.com/ctosagme/my_picture/blob/main/Screenshot%202023-03-19%20164626.png)
 
-- if you click the game_patch_1 you can all the file picture below
+- if you click the game_patch_1 you can see all the file picture below
 
 ![Screenshot2](https://github.com/ctosagme/my_picture/blob/main/Screenshot%202023-03-19%20164836.png)
 
