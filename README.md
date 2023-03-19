@@ -45,7 +45,7 @@ this is where  the character rotate, move and faded to rotate i called Rotate to
 this is on the public MainPage when you start the game in will count down backwards this is because of the counter that you see in the if else statement it will countdown " in the given time " in your screen on the top corner of the game and if the timer run to 0 it will go to the else statement that it will give the displayalert and it will push you to the menu <br>
 ![timer](https://github.com/ctosagme/my_picture/blob/main/timer.png)
 - Menu
-This is just a simple menu that pushnavigate in the difficulty of the game. the code are simple check the Page1.xaml and Page1.xaml.cs
+This is just a simple menu that pushnavigate in the difficulty of the game. the code are simple check the Page1.xaml and Page1.xaml.cs<br>
 ![page1](https://github.com/ctosagme/my_picture/blob/main/page1.png)
 
 > note this is an open-source code you can try to yourself if there's an error you can check it on youtube.
