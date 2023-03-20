@@ -18,7 +18,7 @@ This Game is a xmal form using / CSharp / Xaml / Visual Studio this is an open-s
 - Third navigate to the top pane of the visual studio installer and click individual components
 ![Screenshot5](https://github.com/ctosagme/my_picture/blob/main/navigation.png)
 
-- Fourth Search for Xamarin and there's three things will pop Xamarin, Xamarin Remoted Simulator and Android SDK Setup then install.
+- Fourth Search for Xamarin and there's three things will pop Xamarin, Xamarin Remoted Simulator and Android SDK Setup then install.<br>
 ![Screenshot6](https://github.com/ctosagme/my_picture/blob/main/download_xamarin.png)
 
 ## Documentation
